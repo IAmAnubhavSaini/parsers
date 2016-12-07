@@ -1,0 +1,8 @@
+1. Create or Pick an issue.
+2. Talk about it on the issue page.
+3. Write code. Push it.
+4. Raise a PR. Get it reviewed.
+5. Resolve any comments.
+
+Disclose patents. We want to be free as described in MIT license.
+
